@@ -1,7 +1,7 @@
 ---
 title: 'Bacterial strain identification from sequencing data'
 author: "Tommi Mäklin and Antti Honkela"
-date: "7 February 2018"
+date: "22 April 2020"
 output: ioslides_presentation
 ---
 
@@ -12,7 +12,7 @@ library(knitr)
 
 ## Availability
 
-Slides as R Markdown document: https://github.com/ahonkela/ItAB18-BIB
+Slides as R Markdown document: https://github.com/tmaklin/ItAB18-BIB
 
 BIB code: https://github.com/PROBIC/BIB
 
