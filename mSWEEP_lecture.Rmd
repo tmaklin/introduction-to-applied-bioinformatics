@@ -419,8 +419,6 @@ for (i in 1:length(files)) {
 ```{r echo=FALSE, eval=TRUE}
 most.abundant <- tail(order(colSums(abundances)), 15)
 strains <- colnames(abundances)[most.abundant]
-strains = trs[,"V2"]
-
 
 v <- t(abundances[, most.abundant])
 
